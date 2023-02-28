@@ -1,0 +1,12 @@
+
+.container {
+    max-width: 900px;
+    margin: 0px auto;
+    padding: 30px 20px;
+}
+
+#log {
+    height: 200px;
+    flex-direction: column-reverse;
+    word-break: break-word;
+}
